@@ -12,3 +12,7 @@ Tchaykovskaya and AQ
 
 ## 5. Ya s toboy
 Tchaykovskaya and AQ
+
+## 6. Броненосец (Ты ни при чем?)
+Ляпис Трубецкой
+http://thankyou.ru/music/rock/lyapis_trubetskoy/albums/rabkor
