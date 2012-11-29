@@ -23,10 +23,5 @@ Probably several of them too.
 2
 
 
-## 6. From #np in Twitter
+## 6. From Soundcloud and Shazam
 
-
-## 7. What I liked in early 2000
-
-
-## 8. What I liked in 90s
