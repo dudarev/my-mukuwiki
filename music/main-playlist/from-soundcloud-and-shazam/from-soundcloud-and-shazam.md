@@ -14,3 +14,8 @@ http://open.spotify.com/track/3yFRbFaSj8MeNuYaN21HIu
 Michael Jackson 
 http://www.youtube.com/watch?v=Zi_XLOBDo_Y
 http://open.spotify.com/track/3SkeDDHXP7IKUEkW4W9zmP
+
+## 4. Moskau
+Dschinghis Khan
+http://en.wikipedia.org/wiki/Moskau_(Dschinghis_Khan_song)
+[Interesting article in Russian](http://www.zhurnal.ru/music/sherick/music/chingiskhan.htm) about the song
