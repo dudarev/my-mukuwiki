@@ -1,6 +1,5 @@
 ## 1. Evaluating future concerts
-Now I've added there Surganova and Orchestra.
-7
+0
 
 
 ## 2. From Spotify
@@ -14,7 +13,7 @@ Songs that I added to favorites in Vkontakte.
 
 
 ## 4. From live concerts
-What I've heard live.
+What I've heard live. Tchaikovskaya and Lyapis for now.
 6
 
 
@@ -24,4 +23,4 @@ Probably several of them too.
 
 
 ## 6. From Soundcloud and Shazam
-
+4

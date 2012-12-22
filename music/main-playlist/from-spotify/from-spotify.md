@@ -11,3 +11,13 @@ London Philharmonic Orchestra
 ## 3. Burning Love 
 Elvis Presley 
 [Burning Love - Elvis Live version by Elvis Presley on Spotify](http://open.spotify.com/track/7mnx3WBdODknsXsePsN2YM)
+
+
+## 4. For a Few Dollars More
+Ennio Morricone
+http://open.spotify.com/track/2JnFCGmwCyvMX4osX2EmN9
+
+
+## 5. Johnny B Goode
+Chuck Berry
+http://open.spotify.com/track/1KOlMJz1EItKnYce0n5gEQ
