@@ -4,11 +4,5 @@ Limit: 64 is a good number because it may be composed from 8 times by 8. So I'm 
 
 ## 2. Likes
 
-### 1. From Spotify
-
-### 2. From VK
-
 
 ## 3. Playlists
-
-### 1. YouTube
