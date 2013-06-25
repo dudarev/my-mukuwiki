@@ -21,3 +21,8 @@ http://open.spotify.com/track/2JnFCGmwCyvMX4osX2EmN9
 ## 5. Johnny B Goode
 Chuck Berry
 http://open.spotify.com/track/1KOlMJz1EItKnYce0n5gEQ
+
+## 6. Nese Galya Vodu (Galya - Name Of Girl) / Несе Галя воду
+Charivna / Чарівна
+http://open.spotify.com/track/5zQ1rzIpSCS53uqUXB2QzJ
+
