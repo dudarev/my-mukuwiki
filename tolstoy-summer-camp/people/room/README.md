@@ -1,8 +1,9 @@
-Roman Lapin
-https://www.facebook.com/romalapin
-
 Boris Sokolov
 https://www.facebook.com/bbsokolov
+
+Roman Lapin
+https://www.facebook.com/romalapin
+https://twitter.com/memphys
 
 Kirill Lazarev
 https://www.facebook.com/kirill.lazarev.507
