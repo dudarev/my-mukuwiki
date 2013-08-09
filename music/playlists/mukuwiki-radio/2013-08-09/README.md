@@ -1,7 +1,8 @@
 Songs tweeted by people I follow from @dudarev account that may be found on Yandex.Music. I also should like it when listening for 30 seconds.
 
-«mukuwiki-2013-08-09» на Яндекс.Музыке
-http://music.yandex.ru/#!/users/art-dud/playlists/1040
+I had to go more than a year back with search "[#np OR #nowplaying](https://twitter.com/search?q=%23np%20OR%20%23nowplaying&src=typd&mode=timeline)" limited to people I follow.
+
+My playlist [mukuwiki-2013-08-09](http://music.yandex.ru/#!/users/art-dud/playlists/1040) at Yandex.Music.
 
 1. [Where Does This Door Go - Mayer Hawthorne](http://music.yandex.ru/#!/track/13184767/album/1432938)
 2. [Bird of Sorrow - Glen Hansard](http://music.yandex.ru/#!/track/4234231/album/480376)
